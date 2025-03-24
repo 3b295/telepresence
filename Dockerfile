@@ -1,2 +1,2 @@
-FROM ghcr.io/telepresenceio:2.20.3-test.0
+FROM ghcr.io/telepresenceio:v2.20.3-test.0
 
